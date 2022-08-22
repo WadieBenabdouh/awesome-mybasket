@@ -4,9 +4,6 @@
 <div style="text-align: center; max-width: 200px;">
     <img src="picnic-basket.jpg">
     <p style="color: yellow; font-weight: bold;">MY BASKET</p>
-<div style="text-align: center; max-width: 50px;">
- <img src="basket.png">
- <p style="color: yellow; font-weight: bold;">MY BASKET</p>
 </div>
 
 ## Contents
