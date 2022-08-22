@@ -1,7 +1,7 @@
 
 <h1>MY CUSTOM AWESOME LIST FOR MY <strong>CAREER</strong></h1>
 
-<div style="text-align: center; max-width: 100px;">
+<div style="text-align: center; max-width: 50px;">
  <img src="basket.png">
  <p style="color: yellow; font-weight: bold;">MY BASKET</p>
 </div>
